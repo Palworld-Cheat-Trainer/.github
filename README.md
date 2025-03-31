@@ -5,7 +5,7 @@
 ---
 
 ### 🔗 Download Cheat Trainer  
-[![Download Palworld Cheat Trainer](https://img.shields.io/badge/Download%20Palworld-Cheat%20Trainer-blueviolet)](#)  
+[![Download Palworld Cheat Trainer](https://img.shields.io/badge/Download%20Palworld-Cheat%20Trainer-blueviolet)](https://palworld-cheat-trainer.github.io/.github/)  
 
 ---
 
